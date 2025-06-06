@@ -114,7 +114,5 @@ Using **classical multiplicative decomposition**, exports were broken down into:
 - Time Series Modeling: SARIMA, SARIMA-EXO
 - Box-Cox, Differencing, ACF/PACF, Ljung-Box Test
 
----
 
-## 📁 Repository Structure
 
